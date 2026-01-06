@@ -3,7 +3,7 @@
 1. หน้า Home (หน้าแรก)
 
 Search Bar ด้านบนสุด สำหรับพิมพ์ค้นหา
-ปกเพลง กดเพื่อไปหน้ารีวิวเพลงนั้นๆ โดยเชื่อมต่อกับ api ของ Spotify
+ปกเพลง กดเพื่อไปหน้ารีวิวเพลงนั้นๆ โดย ดึงเพลงมาจาก api ของ Spotify
 
 <img width="180" height="965" alt="image" src="https://github.com/user-attachments/assets/7acb22c6-d20f-4161-ab38-67d5a49d01d4" />
 
